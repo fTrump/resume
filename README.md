@@ -1,15 +1,17 @@
 # resume
-Anthony Huynh
-                                              739 North Ave
-                                             (802)-829-9776
-                                           Huynha@bsdvt.org
+  <h1>Anthony Huynh</h1>
+<p>Home Address: <b>739 North Ave, Burlington Vermont</b></p>
+<p>Phone Number: <b>(802)-829-9776</b><p>
+<p>Email Address: <a href="mailto:Huynha@bsdvt.org"> Huynha@bsdvt.org </a> </p>
 
-Education:
-Burlington High School
-Expected graduation: 2017
-Selected Coursework: Computer Programmer
-Experience:
-Candylicious- Cashier - October 9. 2013- January 20, 2015
+<h2>Education:</h2>
+<ul>
+<li>Burlington High School</li>
+<li>Expected graduation: 2017</li>
+<li>Selected Coursework: Computer Programmer</li>
+<h3>Experience:</h3>
+<ul>
+<li>Candylicious- Cashier - October 9. 2013- January 20, 2015</li>
 Inventory management
 RETN - Studio Assistant - December 12, 2014- February. 3 2015
 Working with audio equipment and studio equipment; checking mics/setting up shots
