@@ -9,10 +9,10 @@
 <li>Expected Graduation: June 2017</li>
 <h3>Experience:</h3>
 <ul>
-<li>Candylicious- Cashier - *Attendance: October 9. 2013- January 20, 2015</li>*
+Candylicious- Cashier - *Attendance: October 9. 2013- January 20, 2015*
 <li>Inventory management</li>
 ______________
-<li>RETN - Studio Assistant - *Attendance: December 12, 2014- February. 3 2015</li>*
+RETN - Studio Assistant - *Attendance: December 12, 2014- February. 3 2015*
 <li>Working with audio equipment and studio equipment; checking mics/setting up shots<li>
 _______________
 Milton Hair Salon - Receptionist - *Attendance: July 15, 2015 - August 30, 2015*
