@@ -1,31 +1,35 @@
-# resume
-  <h1>Anthony Huynh</h1>
+###
+<h1><i>Anthony Huynh</h1></i>
 <p>Home Address: <b>739 North Ave, Burlington Vermont</b></p>
 <p>Phone Number: <b>(802)-829-9776</b><p>
 <p>Email Address: <a href="mailto:Huynha@bsdvt.org"> Huynha@bsdvt.org </a> </p>
-
 <h2>Education:</h2>
 <ul>
-<li>Burlington High School</li>
-<li>Expected graduation: 2017</li>
-<li>Selected Coursework: Computer Programmer</li>
+<li>Attending Burlington High School</li>
+<li>Expected Graduation: June 2017</li>
 <h3>Experience:</h3>
 <ul>
-<li>Candylicious- Cashier - October 9. 2013- January 20, 2015</li>
-Inventory management
-RETN - Studio Assistant - December 12, 2014- February. 3 2015
-Working with audio equipment and studio equipment; checking mics/setting up shots
-Milton Hair Salon name - Receptionist - July 15, 2015 - August 30, 2015
-Sweeping up hair; Scheduling appointments
-Volunteering:
-Spectrum Youth
-Slept outside to raise awareness of a non-profit organization that helps teens combat homelessness
-Peer tutored elementary/middle school kids on math
-Extracurriculars:
-APUSH (Advanced Placement U.S History)
-Proficient in the Clarinet
-Former Student Council Member in Middle School
-Former Treasurer in Middle school
-Awards:
+<li>Candylicious- Cashier - *Attendance: October 9. 2013- January 20, 2015</li>*
+<i><b>Duties</b></i>
+<li>Inventory management</li>
+<ul>
+<li>RETN - Studio Assistant - *Attendance: December 12, 2014- February. 3 2015</li>*
+<b><i>Duties</b></i>
+<li>Working with audio equipment and studio equipment; checking mics/setting up shots<li>
+<ul>
+Milton Hair Salon - Receptionist - *Attendance:July 15, 2015 - August 30, 2015*
+<b><i>Duties</b></i>
+<li>Sweeping up hair; Scheduling appointments</li>
+<b><h2>Volunteering</h3></b>
+<i>Spectrum Youth</i>
+<ul>
+<li>Slept outside to raise awareness of a non-profit organization that helps teens combat homelessness</li>
+<li>Peer tutored elementary/middle school kids on math</li>
+<i><h1>Extracurriculars</h1></i>
+<ul>
+<li>Proficiently Adept at the Clarinet</li>
+<li>Former Student Council Member in Middle School</li>
+<li>Former Treasurer in Middle school</li>
+<b>Awards:</b>
 President’s Award for Excellence in Education
 Medal for Excellence in Band
