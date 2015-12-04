@@ -1,5 +1,6 @@
 ###
 <h1><i>Anthony Huynh</h1></i>
+_________
 <p>Home Address: <b>739 North Ave, Burlington Vermont</b></p>
 <p>Phone Number: <b>(802)-829-9776</b><p>
 <p>Email Address: <a href="mailto:Huynha@bsdvt.org"> Huynha@bsdvt.org </a> </p>
@@ -10,12 +11,15 @@
 <h3>Experience:</h3>
 <ul>
 <li>Candylicious- Cashier - *Attendance: October 9. 2013- January 20, 2015</li>*
+__________
 <i><b>Duties</b></i>
 <li>Inventory management</li>
 <li>RETN - Studio Assistant - *Attendance: December 12, 2014- February. 3 2015</li>*
+__________
 <b><i>Duties</b></i>
 <li>Working with audio equipment and studio equipment; checking mics/setting up shots<li>
 Milton Hair Salon - Receptionist - *Attendance:July 15, 2015 - August 30, 2015*
+__________
 <b><i>Duties</b></i>
 <li>Sweeping up hair; Scheduling appointments</li>
 <b><h2>Volunteering</h3></b>
