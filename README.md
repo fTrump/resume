@@ -12,17 +12,14 @@
 <li>Candylicious- Cashier - *Attendance: October 9. 2013- January 20, 2015</li>*
 <i><b>Duties</b></i>
 <li>Inventory management</li>
-<ul>
 <li>RETN - Studio Assistant - *Attendance: December 12, 2014- February. 3 2015</li>*
 <b><i>Duties</b></i>
 <li>Working with audio equipment and studio equipment; checking mics/setting up shots<li>
-<ul>
 Milton Hair Salon - Receptionist - *Attendance:July 15, 2015 - August 30, 2015*
 <b><i>Duties</b></i>
 <li>Sweeping up hair; Scheduling appointments</li>
 <b><h2>Volunteering</h3></b>
 <i>Spectrum Youth</i>
-<ul>
 <li>Slept outside to raise awareness of a non-profit organization that helps teens combat homelessness</li>
 <li>Peer tutored elementary/middle school kids on math</li>
 <i><h1>Extracurriculars</h1></i>
@@ -31,5 +28,6 @@ Milton Hair Salon - Receptionist - *Attendance:July 15, 2015 - August 30, 2015*
 <li>Former Student Council Member in Middle School</li>
 <li>Former Treasurer in Middle school</li>
 <b>Awards:</b>
-President’s Award for Excellence in Education
-Medal for Excellence in Band
+<ol>
+<li>President’s Award for Excellence in Education</li>
+<li>Medal for Excellence in Band</li>
